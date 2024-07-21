@@ -258,4 +258,38 @@
 
 # Условные предложения (Conditional Sentences: Type 0, 1, 2, 3, Mixed)
 
+| Тип Условного Предложения | Структура                                | Пример Активного Предложения                                | Пример Пассивного Предложения                                 |
+|---------------------------|------------------------------------------|-------------------------------------------------------------|--------------------------------------------------------------|
+| Type 0 (Zero Conditional) | If + Present Simple, Present Simple      | If you heat water, it boils.                                | If water is heated, it boils.                                |
+| Type 1 (First Conditional)| If + Present Simple, will + Infinitive   | If it rains, we will stay at home.                          | If it rains, we will be stayed at home.                      |
+| Type 2 (Second Conditional)| If + Past Simple, would + Infinitive    | If I had a car, I would drive to work.                      | If a car were had by me, I would drive to work.              |
+| Type 3 (Third Conditional) | If + Past Perfect, would have + Past Participle | If she had studied, she would have passed the exam.         | If she had studied, the exam would have been passed by her.  |
+| Mixed Conditional         | If + Past Perfect, would + Infinitive    | If I had known about the meeting, I would be attending it now. | If the meeting had been known by me, it would be attended now. |
+
+# Согласование подлежащего и сказуемого (Subject-Verb Agreement)
+
+| Правило                                                 | Пример                                                                                      |
+|---------------------------------------------------------|---------------------------------------------------------------------------------------------|
+| Единичное подлежащее требует единственного глагола       | She **runs** every morning.                                                                  |
+| Множественное подлежащее требует множественного глагола | They **run** every morning.                                                                  |
+| Подлежащее, соединенное союзом "and", требует множественного глагола | John and Mary **are** going to the store.                                                    |
+| Подлежащее, соединенное союзами "or", "nor", согласуется с ближайшим к нему глаголом | Neither the teacher nor the students **were** in the classroom.                               |
+| Коллективные существительные (team, group, etc.) обычно требуют единственного глагола в американском английском | The team **is** winning the game.                                                            |
+| Существительные, обозначающие количество, согласуются в зависимости от контекста | A number of students **are** absent today. <br> The number of students in the class **is** 20. |
+| "There" или "Here" в начале предложения согласуются с ближайшим подлежащим | There **is** a book on the table. <br> There **are** books on the table.                       |
+| Неличные местоимения (each, every, everybody, etc.) требуют единственного глагола | Everyone **is** invited to the party.                                                        |
+| Подлежащие, выраженные инфинитивом или герундием, требуют единственного глагола | To read books **is** enjoyable. <br> Reading books **is** enjoyable.                          |
+
+# Части речи и их функции (Nouns, Pronouns, Adjectives, Adverbs, Prepositions, Conjunctions)
+
+| Часть речи      | Описание                                                                              | Примеры                                           | Функции                                                              |
+|-----------------|---------------------------------------------------------------------------------------|--------------------------------------------------|-----------------------------------------------------------------------|
+| Существительные (Nouns)    | Обозначают людей, места, предметы, идеи                                      | dog, city, book, love                             | Подлежащее, дополнение, объект предлога                              |
+| Местоимения (Pronouns)      | Заменяют существительные                                                      | he, she, it, they                                 | Замена существительных для избежания повторений, указание на объекты |
+| Прилагательные (Adjectives) | Описывают существительные и местоимения                                        | happy, large, red, interesting                    | Определение существительных и местоимений                             |
+| Наречия (Adverbs)           | Описывают глаголы, прилагательные, другие наречия                             | quickly, very, well, often                        | Определение глаголов, прилагательных, других наречий                  |
+| Предлоги (Prepositions)     | Показатели отношений между существительными или местоимениями и другими словами | in, on, at, by, with                              | Указание на место, время, направление, причину и т.д.                 |
+| Союзы (Conjunctions)        | Соединяют слова, фразы, предложения                                           | and, but, or, because, although                   | Соединение слов, фраз и предложений                                  |
+
+
 
